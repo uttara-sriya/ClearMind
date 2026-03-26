@@ -1,0 +1,5 @@
+.venv
+.adk
+.python-version
+__pycache__
+.env
